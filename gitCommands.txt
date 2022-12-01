@@ -1,0 +1,9 @@
+git init (initialise repository for the first time)
+git add . (Stage files in this directory)
+git commit -m "text" (commit files with text)
+git push -u origin master (push files to Origin-repository Master branch)
+
+git status (check status of files)
+git remote -v (check origin address)
+git branch (check which branch u in)
+git log (check history)
